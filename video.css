@@ -1,0 +1,23 @@
+.center {  
+	margin-top: 200px;
+	margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 300px;
+    display: block;
+     }
+     body{
+     	background-image: linear-gradient(lightblue,lightpink);
+
+  		font: 16px/1.6 'Raleway', Arial, Helvetica, sans-serif;
+  		color: #fff;
+  		text-align:center;
+  		
+  		
+  
+}
+     }
+     h1{
+     	font: sans-serif;
+     	font-weight: 10em;
+     	text-decoration-color: white;
+     }
